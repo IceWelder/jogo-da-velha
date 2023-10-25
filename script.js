@@ -1,4 +1,4 @@
-var jogador = "1";
+let jogador = "1";
 
 function play(cell){
 
